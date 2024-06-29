@@ -1,0 +1,59 @@
+
+.contacto {
+  padding: 20px;
+    max-width: 100%;
+    background-color: deeppink;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5em;
+    animation: fondocolores 20s infinite alternate;
+  }
+  .contacto .contacto-tit {
+    animation: fondocolores 20s infinite alternate;
+  }
+  .contacto .contacto-items {
+    animation: fondocolores 20s infinite alternate;
+    display: flex;
+    gap: 1em;
+  }
+  .contacto .contacto-items a {
+    font-size: 1.5em;
+    animation: fondocolores 20s infinite alternate;
+    color: azure;
+  }
+  .contacto .contacto-items a i {
+    animation: fondocolores 20s infinite alternate;
+  }
+  .gracias p {
+    padding-block: 10px;
+  }
+  
+  @keyframes fondocolores {
+    0% {
+      background-color: blueviolet;
+    }
+    16% {
+      background-color: darkorchid;
+    }
+    32% {
+      background-color: deeppink;
+    }
+    48% {
+      background-color: fuchsia;
+    }
+    64% {
+      background-color: hotpink;
+    }
+    82% {
+      background-color: indigo;
+    }
+    100% {
+      background-color: mediumblue;
+    }
+  }
+
+
+  

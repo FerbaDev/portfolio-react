@@ -1,0 +1,57 @@
+.proyectos .card-proyectos {
+    border: solid 1px white;
+    padding: 10px;
+    flex: 1; /* Todas las tarjetas ocupan el mismo espacio */
+  }
+  
+  .proyectos .card-proyectos img {
+    width: 100%;
+  }
+  
+  .proyectos .card-proyectos .card-text {
+    padding: 10px 0;
+  }
+  
+  .proyectos .card-proyectos .card-text h2 {
+    font-size: 1.2em;
+    padding-block: 10px;
+  }
+  
+  .proyectos .card-proyectos .card-text p {
+    padding-block: 10px;
+    line-height: 1.4; /* Espaciado entre líneas mejorado */
+  }
+  
+  .proyectos .card-proyectos .card-text .categoria {
+    font-size: 0.8em;
+    color: darkgray;
+  }
+  
+  .proyectos .card-proyectos .card-text .talba {
+    color: #00ff00;
+  }
+  
+  .proyectos .card-proyectos .card-text .talba:hover {
+    color: #005eff;
+  }
+  
+  .proyectos .card-proyectos button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff; /* Color de fondo del botón */
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .proyectos .card-proyectos button a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .proyectos .card-proyectos button:hover {
+    background-color: #0056b3; /* Cambio de color en hover */
+  }
+  

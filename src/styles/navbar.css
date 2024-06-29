@@ -1,0 +1,67 @@
+.navbar {
+    max-width: 100%;
+    overflow: hidden;
+    background-color: #212529;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .navbar a {
+    font-size: 16px;
+    color: hotpink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* The dropdown container */
+  .dropdown {
+    overflow: hidden;
+  }
+  .dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: hotpink;
+    padding: 14px 20px;
+    background-color: inherit;
+    font-family: inherit;
+  }
+  
+  /* hover en links */
+  .navbar a:hover,
+  .dropdown:hover .dropbtn {
+    color: deeppink;
+  }
+  
+  /* Dropdown contenido hiden */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 200px;
+    border: 1px solid azure;
+    z-index: 1;
+    background-color: #212529;
+    right: 10px; /* Ajusta este valor según sea necesario */
+  }
+  
+  /* Links en dropdown */
+  .dropdown-content a {
+    color: rgb(203, 142, 172);
+    padding: 10px 15px 10px 10px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  /* color de fondo en hover */
+  .dropdown-content a:hover {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  /* muestra el menu en cascada en hover */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  /* cierra navbar  */

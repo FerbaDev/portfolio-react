@@ -1,0 +1,83 @@
+/*empieza banner mas info*/
+
+.principal {
+    display: flex;
+    flex-direction: column;
+  }
+.mas-info {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    border: 3px solid azure;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin-inline: 20px;
+    margin-bottom: 20px;
+    gap: 1em;
+    animation: blink 0.5s step-end infinite alternate;
+  }
+  .mas-info #id-info {
+    margin-top: 1em;
+  }
+  .mas-info p {
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .mas-info .info-botones {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    width: -moz-fit-content;
+    width: fit-content;
+  }
+  .mas-info .info-botones button {
+    padding: 7px;
+    border: 2px solid #212529;
+  }
+  .mas-info .info-botones button:hover {
+    background-color: mediumvioletred;
+  }
+  
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
+
+  /* cartel de estudios */
+.estudios {
+    width: 50%;
+    margin: 30px;
+    padding: 30px;
+    background-color: green;
+    border: 1px solid azure;
+    color: azure;
+  }
+  .estudios .fieldset {
+    background-color: green;
+  }
+  .estudios .fieldset legend {
+    background-color: green;
+  }
+  .estudios .fieldset ul {
+    padding: 20px;
+    background-color: green;
+  }
+  .estudios .fieldset ul li {
+    background-color: green;
+    padding-block: 5px;
+  }
+  .gracias {
+    padding: 20px;
+  }
+  .field-gracias {
+    padding: 20px;
+    background-color: blue;
+  }
+  /* cierra cartel de estudios */
+
+  @media screen and (max-width: 768px) {
+    .estudios {
+      width: 85%;
+    }
+  }

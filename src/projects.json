@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Cactivas",
+      "category": "Sitio web",
+      "description": "Página principal y 5 secciones. Links hacia redes sociales, galería de productos, link a whatsapp.",
+      "image": "https://res.cloudinary.com/dwl4yy7q6/image/upload/v1695552816/archivos%20varios/Captura_de_pantalla_2023-08-28_00.03.59_1_axsiog.png",
+      "link": "https://ferbadev.github.io/Cactivas-sitio-web/"
+    },
+    {
+      "title": "Maria Shoes",
+      "category": "Ecommerce",
+      "description": "Tienda virtual conectada a Mercado Pago. Incluye panel administrador para manejo de catálogo y órdenes de compra. Sitio realizado por Talba Labs",
+      "image": "https://res.cloudinary.com/dwl4yy7q6/image/upload/v1697036149/captura-maria_zniwew.jpg",
+      "link": "https://tiendatentacioness.com.ar/"
+    },
+    {
+      "title": "Tienda Tentaciones",
+      "category": "Sitio Web",
+      "description": "Sitio web para una tienda de indumentaria. Trabajo realizado en equipo con una Project Manager, dos diseñadoras UX/UI y compartiendo desarrollo con una desarrolladora web de mi mismo stack.",
+      "image": "https://res.cloudinary.com/dwl4yy7q6/image/upload/v1703627688/cptr-tentacioness.dskt_q2bliz.png",
+      "link": "https://tiendatentacioness.com.ar/"
+    }
+  ]
+  
