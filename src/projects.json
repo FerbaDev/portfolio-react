@@ -1,10 +1,10 @@
 [
     {
       "title": "Cactivas",
-      "category": "Sitio web",
-      "description": "Página principal y 5 secciones. Links hacia redes sociales, galería de productos, link a whatsapp.",
-      "image": "https://res.cloudinary.com/dwl4yy7q6/image/upload/v1695552816/archivos%20varios/Captura_de_pantalla_2023-08-28_00.03.59_1_axsiog.png",
-      "link": "https://ferbadev.github.io/Cactivas-sitio-web/"
+      "category": "Ecommerce",
+      "description": "Página principal y 5 secciones.Tienda virtual conectada a Mercado Pago. Links hacia redes sociales, galería de productos, link a whatsapp. Panel administrador de stock y ventas.",
+      "image": "https://res.cloudinary.com/dwl4yy7q6/image/upload/f_auto,q_auto/v1/archivos%20varios/cactivas",
+      "link": "https://cactivas.com.ar/"
     },
     {
       "title": "Maria Shoes",
@@ -19,6 +19,27 @@
       "description": "Sitio web para una tienda de indumentaria. Trabajo realizado en equipo con una Project Manager, dos diseñadoras UX/UI y compartiendo desarrollo con una desarrolladora web de mi mismo stack.",
       "image": "https://res.cloudinary.com/dwl4yy7q6/image/upload/v1703627688/cptr-tentacioness.dskt_q2bliz.png",
       "link": "https://tiendatentacioness.com.ar/"
+    },
+    {
+      "title": "Citecopa",
+      "category": "Sitio Web",
+      "description": "Sitio web para una fundación de ciencias para chicos y adolescentes. Desarrollado con React, cuenta con formularios de contacto, login, panel dashboard para administradores, animaciones, funcionalidades.",
+      "image": "https://res.cloudinary.com/dwl4yy7q6/image/upload/f_auto,q_auto/v1/archivos%20varios/citecopa",
+      "link": "https://tiendatentacioness.com.ar/"
+    },
+    {
+      "title": "Gloria AI",
+      "category": "Landing page",
+      "description": "Landing page desarrollada para Agencia B2Business Marketing. Diseño responsive. Pricing cards. Faqs. Integraciñon de reseñas de Google Maps. Integración de Google Calendar.",
+      "image": "https://res.cloudinary.com/dwl4yy7q6/image/upload/f_auto,q_auto/v1/archivos%20varios/gloria-ai",
+      "link": "https://www.b2business.marketing/gloria-ai.html"
+    },
+    {
+      "title": "Agenda citas",
+      "category": "Landing page",
+      "description": "Landing page desarrollada para Agencia B2Business Marketing. Integración de Google Calendar para recibir citas de usuarios interesados en el servicio. Diseño responsive.",
+      "image": "https://res.cloudinary.com/dwl4yy7q6/image/upload/f_auto,q_auto/v1/archivos%20varios/agenda",
+      "link": "https://www.b2business.marketing/agenda-cita.html"
     }
   ]
   

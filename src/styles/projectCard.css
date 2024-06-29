@@ -54,4 +54,15 @@
   .proyectos .card-proyectos button:hover {
     background-color: #0056b3; /* Cambio de color en hover */
   }
+
+  @media screen and (min-width: 1200px) {
+    .proyectos .card-proyectos {
+      min-width: 345px;
+      max-width: 345px;
+      height: 600px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+  }
   
